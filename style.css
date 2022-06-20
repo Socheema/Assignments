@@ -174,7 +174,8 @@ footer .fa-brands{
     
     
 }
-footer p{
+footer p,
+address{
     font-size: 10px;
     color: #222;
     margin-top: 10px;
